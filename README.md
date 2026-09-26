@@ -1,2 +1,3 @@
 # apnacollege-demo
-this is my first it repository
+this is my first git repository
+Author - sumit gupta
